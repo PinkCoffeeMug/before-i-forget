@@ -41,18 +41,18 @@ a mern fullstack social media app
 ## :clipboard: Documentation
 ### Frontend
 
-
-* []()
-
-### Backend
-#### Setup
-
 ```
 cd client
 npx create-react-app ./
+npm install axios moment react-file-base64 redux redux-thunk
+npm start
+```
+
+### Backend
+
+```
 cd server
 npm init -y
-npm install
 npm install body-parser cors express mongoose nodemon
 ```
 
