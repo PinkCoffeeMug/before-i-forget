@@ -43,6 +43,7 @@ a mern fullstack social media app
 
 ```
 cd client
+npx create-react-app ./
 npm install axios moment react-file-base64 redux redux-thunk
 npm start
 ```
@@ -50,11 +51,8 @@ npm start
 ### Backend
 
 ```
-cd client
-npx create-react-app ./
 cd server
 npm init -y
-npm install
 npm install body-parser cors express mongoose nodemon
 ```
 
