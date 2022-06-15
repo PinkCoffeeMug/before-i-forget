@@ -44,11 +44,10 @@ a mern fullstack social media app
 ```
 cd client
 npm install axios moment react-file-base64 redux redux-thunk
-
+npm start
 ```
 
 ### Backend
-#### Setup
 
 ```
 cd client
