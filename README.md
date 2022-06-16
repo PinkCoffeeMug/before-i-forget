@@ -8,7 +8,7 @@
 <div align="center">
 
 ![GitHub License](https://img.shields.io/github/issues/pink-coffee-mug/before-i-forget?color=ff69b4&style=plastic)
-![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/pink-coffee-mug/before-i-forget?color=9cf)
+![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/pink-coffee-mug/before-i-forget?color=9cf&style=plastic)
 
   </div>
 </p>
